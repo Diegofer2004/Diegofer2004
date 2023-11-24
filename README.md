@@ -19,7 +19,7 @@
 ## Proyectos Destacados
 
 - **API Back-end para Proyecto de E-commerce:**
-  Desarrollé un sólido API back-end para un proyecto de e-commerce para etapa practica, proporcionando funcionalidades clave como gestión de productos, carrito de compras y procesamiento de pedidos. https://github.com/Lovecraft-PGM/API
+  Desarrollé un sólido API back-end para un proyecto de e-commerce para etapa practica, proporcionando funcionalidades clave como gestión de productos, carrito de compras y procesamiento de pedidos. https://github.com/Lovecraft-PGM/API/tree/feature
   
 ¡Gracias por visitar mi repositorio! Espero que encuentres interesantes mis proyectos. Si tienes alguna pregunta o sugerencia, ¡no dudes en ponerte en contacto!
 
