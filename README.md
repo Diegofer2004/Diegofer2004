@@ -14,7 +14,8 @@
 ## Habilidades Técnicas
 
 - **Lenguajes de Programación:** PHP (Laravel), JavaScript (básico), Python (básico), Java (básico).
-- **Bases de Datos:** SQL (básico).
+- **Bases de Datos:** SQL (básico) y NOSQL (básico).
+- **QA Tester:** Jmeter, SOAP, Postman.
 
 ## Proyectos Destacados
 
